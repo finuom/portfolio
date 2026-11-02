@@ -1,0 +1,95 @@
+{
+  "display_name": "Mounif Tormos",
+  "headline": "Desenvolvedor Full Stack & Inteligência Artificial",
+  "roles": [
+    "Desenvolvedor Full Stack",
+    "Aprendiz de Inteligência Artificial",
+    "Vue · FastAPI · Python",
+    "Pesquisador na UFMS"
+  ],
+  "about": "Sou estudante e desenvolvedor apaixonado por construir sistemas completos — do banco de dados à interface — e por explorar aprendizado de máquina na prática. Gosto de transformar ideias em aplicações que funcionam: APIs em FastAPI, interfaces em Vue, modelos em TensorFlow e até jogos em C.",
+  "contacts": {
+    "github": "https://github.com/finuom",
+    "email": "mouniftormos@gmail.com",
+    "linkedin": ""
+  },
+  "include_forks": ["gates"],
+  "hidden": ["zygos-bench"],
+  "featured": [
+    "document-management",
+    "british_birds_tf",
+    "gates",
+    "shop-vue-fastapi",
+    "solitaire",
+    "biblioteca_java"
+  ],
+  "ignored_languages": ["BibTeX Style"],
+  "projects": {
+    "document-management": {
+      "title": "Gestão de Documentos",
+      "description": "Sistema full stack para upload, armazenamento e gerenciamento de PDFs, com Vue 3 no front, FastAPI no back e Supabase (Storage + PostgreSQL).",
+      "category": "Full Stack",
+      "tags": ["Vue 3", "FastAPI", "Supabase", "PostgreSQL"]
+    },
+    "shop-vue-fastapi": {
+      "title": "Loja Vue + FastAPI",
+      "description": "E-commerce com frontend em Vue e API em FastAPI, organizado em serviços separados.",
+      "category": "Full Stack",
+      "tags": ["Vue", "FastAPI", "SCSS"]
+    },
+    "british_birds_tf": {
+      "title": "Canto de Pássaros Britânicos",
+      "description": "Análise de dados e classificação de cantos de pássaros com CNN em TensorFlow e Librosa, incluindo interpretação do modelo.",
+      "category": "IA / Dados",
+      "tags": ["TensorFlow", "CNN", "Librosa", "Áudio"]
+    },
+    "gates": {
+      "title": "Gates em Pipelines de IA",
+      "description": "Artigo (UFMS) sobre custo-benefício de verificações em pipelines de treinamento: um gate que libera, alerta ou bloqueia o treino conforme testes de dados, código e configuração.",
+      "category": "Pesquisa",
+      "tags": ["MLOps", "Pesquisa", "LaTeX", "Colab"]
+    },
+    "solitaire": {
+      "title": "Paciência em C",
+      "description": "Jogo de paciência completo escrito em C puro, rodando no terminal.",
+      "category": "Jogos",
+      "tags": ["C", "Terminal"]
+    },
+    "solitaire_python": {
+      "title": "Paciência em Python",
+      "description": "Versão em Python do jogo de paciência.",
+      "category": "Jogos",
+      "tags": ["Python"]
+    },
+    "biblioteca_java": {
+      "title": "Sistema de Biblioteca",
+      "description": "Sistema de gerenciamento de biblioteca desenvolvido em Java, com cadastro de livros, usuários e empréstimos.",
+      "category": "Sistemas",
+      "tags": ["Java", "POO"]
+    },
+    "weather_api": {
+      "title": "Weather API",
+      "description": "API de consulta de clima construída com FastAPI e uma página HTML simples para consumo.",
+      "category": "Back-end",
+      "tags": ["FastAPI", "REST"]
+    },
+    "words-game": {
+      "title": "Jogo de Palavras",
+      "description": "Jogo multiplayer de adivinhação de palavras em HTML5 e Node.js — vence quem acertar mais.",
+      "category": "Jogos",
+      "tags": ["Node.js", "HTML5"]
+    },
+    "crud-reactjs-restful": {
+      "title": "CRUD RESTful",
+      "description": "Aplicação CRUD com Node, Express e Mongoose.",
+      "category": "Back-end",
+      "tags": ["Node.js", "Express", "MongoDB"]
+    },
+    "zyg": {
+      "title": "zyg",
+      "description": "Scripts em Python e Shell para automação e benchmarks.",
+      "category": "Ferramentas",
+      "tags": ["Python", "Shell"]
+    }
+  }
+}

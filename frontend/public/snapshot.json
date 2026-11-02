@@ -1,0 +1,395 @@
+{
+ "profile": {
+  "login": "finuom",
+  "name": "Mounif Tormos",
+  "headline": "Desenvolvedor Full Stack & Inteligência Artificial",
+  "bio": "Artificial Intelligence and Software Development Apprentice",
+  "about": "Sou estudante e desenvolvedor apaixonado por construir sistemas completos — do banco de dados à interface — e por explorar aprendizado de máquina na prática. Gosto de transformar ideias em aplicações que funcionam: APIs em FastAPI, interfaces em Vue, modelos em TensorFlow e até jogos em C.",
+  "roles": [
+   "Desenvolvedor Full Stack",
+   "Aprendiz de Inteligência Artificial",
+   "Vue · FastAPI · Python",
+   "Pesquisador na UFMS"
+  ],
+  "avatar_url": "https://avatars.githubusercontent.com/u/39466797?v=4",
+  "html_url": "https://github.com/finuom",
+  "location": null,
+  "contacts": {
+   "github": "https://github.com/finuom",
+   "email": "mouniftormos@gmail.com",
+   "linkedin": ""
+  }
+ },
+ "stats": {
+  "repos": 11,
+  "public": 9,
+  "private": 2,
+  "languages": 12,
+  "stars": 0,
+  "years": 8,
+  "last_push": "2026-10-29T17:08:42Z"
+ },
+ "languages": [
+  {
+   "name": "Python",
+   "percent": 23.5,
+   "repos": 5,
+   "color": "#3572A5"
+  },
+  {
+   "name": "JavaScript",
+   "percent": 18.5,
+   "repos": 4,
+   "color": "#f1e05a"
+  },
+  {
+   "name": "Jupyter Notebook",
+   "percent": 12.4,
+   "repos": 2,
+   "color": "#DA5B0B"
+  },
+  {
+   "name": "C",
+   "percent": 9.1,
+   "repos": 1,
+   "color": "#8b8b9e"
+  },
+  {
+   "name": "Java",
+   "percent": 9.1,
+   "repos": 1,
+   "color": "#b07219"
+  },
+  {
+   "name": "Vue",
+   "percent": 8.4,
+   "repos": 2,
+   "color": "#41b883"
+  },
+  {
+   "name": "HTML",
+   "percent": 6.4,
+   "repos": 4,
+   "color": "#e34c26"
+  },
+  {
+   "name": "TeX",
+   "percent": 5.7,
+   "repos": 1,
+   "color": "#3D6117"
+  },
+  {
+   "name": "Shell",
+   "percent": 3.4,
+   "repos": 1,
+   "color": "#89e051"
+  },
+  {
+   "name": "CSS",
+   "percent": 2.9,
+   "repos": 2,
+   "color": "#663399"
+  },
+  {
+   "name": "PLpgSQL",
+   "percent": 0.5,
+   "repos": 1,
+   "color": "#336790"
+  },
+  {
+   "name": "SCSS",
+   "percent": 0.1,
+   "repos": 1,
+   "color": "#c6538c"
+  }
+ ],
+ "projects": [
+  {
+   "name": "document-management",
+   "title": "Gestão de Documentos",
+   "description": "Sistema full stack para upload, armazenamento e gerenciamento de PDFs, com Vue 3 no front, FastAPI no back e Supabase (Storage + PostgreSQL).",
+   "category": "Full Stack",
+   "tags": [
+    "Vue 3",
+    "FastAPI",
+    "Supabase",
+    "PostgreSQL"
+   ],
+   "languages": [
+    {
+     "name": "Vue",
+     "percent": 40.2,
+     "color": "#41b883"
+    },
+    {
+     "name": "Python",
+     "percent": 38.0,
+     "color": "#3572A5"
+    },
+    {
+     "name": "CSS",
+     "percent": 13.4,
+     "color": "#663399"
+    },
+    {
+     "name": "PLpgSQL",
+     "percent": 5.2,
+     "color": "#336790"
+    }
+   ],
+   "stars": 0,
+   "forks": 0,
+   "url": "https://github.com/finuom/document-management",
+   "homepage": null,
+   "created_at": "2026-06-30T19:37:30Z",
+   "pushed_at": "2026-06-30T20:01:04Z",
+   "private": false,
+   "featured": true
+  },
+  {
+   "name": "british_birds_tf",
+   "title": "Canto de Pássaros Britânicos",
+   "description": "Análise de dados e classificação de cantos de pássaros com CNN em TensorFlow e Librosa, incluindo interpretação do modelo.",
+   "category": "IA / Dados",
+   "tags": [
+    "TensorFlow",
+    "CNN",
+    "Librosa",
+    "Áudio"
+   ],
+   "languages": [
+    {
+     "name": "Jupyter Notebook",
+     "percent": 100.0,
+     "color": "#DA5B0B"
+    }
+   ],
+   "stars": 0,
+   "forks": 0,
+   "url": "https://github.com/finuom/british_birds_tf",
+   "homepage": null,
+   "created_at": "2025-01-31T00:42:17Z",
+   "pushed_at": "2025-01-31T01:21:30Z",
+   "private": false,
+   "featured": true
+  },
+  {
+   "name": "solitaire",
+   "title": "Paciência em C",
+   "description": "Jogo de paciência completo escrito em C puro, rodando no terminal.",
+   "category": "Jogos",
+   "tags": [
+    "C",
+    "Terminal"
+   ],
+   "languages": [
+    {
+     "name": "C",
+     "percent": 100.0,
+     "color": "#8b8b9e"
+    }
+   ],
+   "stars": 0,
+   "forks": 0,
+   "url": "https://github.com/finuom/solitaire",
+   "homepage": null,
+   "created_at": "2021-09-28T17:11:37Z",
+   "pushed_at": "2025-04-23T17:17:53Z",
+   "private": false,
+   "featured": true
+  },
+  {
+   "name": "biblioteca_java",
+   "title": "Sistema de Biblioteca",
+   "description": "Sistema de gerenciamento de biblioteca desenvolvido em Java, com cadastro de livros, usuários e empréstimos.",
+   "category": "Sistemas",
+   "tags": [
+    "Java",
+    "POO"
+   ],
+   "languages": [
+    {
+     "name": "Java",
+     "percent": 100.0,
+     "color": "#b07219"
+    }
+   ],
+   "stars": 0,
+   "forks": 0,
+   "url": "https://github.com/finuom/biblioteca_java",
+   "homepage": null,
+   "created_at": "2025-02-28T02:10:17Z",
+   "pushed_at": "2025-02-28T02:15:35Z",
+   "private": false,
+   "featured": true
+  },
+  {
+   "name": "weather_api",
+   "title": "Weather API",
+   "description": "API de consulta de clima construída com FastAPI e uma página HTML simples para consumo.",
+   "category": "Back-end",
+   "tags": [
+    "FastAPI",
+    "REST"
+   ],
+   "languages": [
+    {
+     "name": "HTML",
+     "percent": 66.7,
+     "color": "#e34c26"
+    },
+    {
+     "name": "Python",
+     "percent": 33.3,
+     "color": "#3572A5"
+    }
+   ],
+   "stars": 0,
+   "forks": 0,
+   "url": "https://github.com/finuom/weather_api",
+   "homepage": null,
+   "created_at": "2025-04-13T12:52:46Z",
+   "pushed_at": "2025-04-13T12:58:16Z",
+   "private": false,
+   "featured": false
+  },
+  {
+   "name": "solitaire_python",
+   "title": "Paciência em Python",
+   "description": "Versão em Python do jogo de paciência.",
+   "category": "Jogos",
+   "tags": [
+    "Python"
+   ],
+   "languages": [
+    {
+     "name": "Python",
+     "percent": 100.0,
+     "color": "#3572A5"
+    }
+   ],
+   "stars": 0,
+   "forks": 0,
+   "url": "https://github.com/finuom/solitaire_python",
+   "homepage": null,
+   "created_at": "2025-04-10T13:16:02Z",
+   "pushed_at": "2025-04-10T13:18:56Z",
+   "private": false,
+   "featured": false
+  },
+  {
+   "name": "zyg",
+   "title": "zyg",
+   "description": "Scripts em Python e Shell para automação e benchmarks.",
+   "category": "Ferramentas",
+   "tags": [
+    "Python",
+    "Shell"
+   ],
+   "languages": [
+    {
+     "name": "Python",
+     "percent": 62.8,
+     "color": "#3572A5"
+    },
+    {
+     "name": "Shell",
+     "percent": 37.2,
+     "color": "#89e051"
+    }
+   ],
+   "stars": 0,
+   "forks": 0,
+   "url": "https://github.com/finuom/zyg",
+   "homepage": null,
+   "created_at": "2023-05-16T21:22:52Z",
+   "pushed_at": "2023-06-30T18:51:49Z",
+   "private": false,
+   "featured": false
+  },
+  {
+   "name": "crud-reactjs-restful",
+   "title": "CRUD RESTful",
+   "description": "Aplicação CRUD com Node, Express e Mongoose.",
+   "category": "Back-end",
+   "tags": [
+    "Node.js",
+    "Express",
+    "MongoDB"
+   ],
+   "languages": [
+    {
+     "name": "JavaScript",
+     "percent": 100.0,
+     "color": "#f1e05a"
+    }
+   ],
+   "stars": 0,
+   "forks": 0,
+   "url": "https://github.com/finuom/crud-reactjs-restful",
+   "homepage": null,
+   "created_at": "2022-01-03T14:29:10Z",
+   "pushed_at": "2022-01-03T14:31:29Z",
+   "private": false,
+   "featured": false
+  },
+  {
+   "name": "words-game",
+   "title": "Jogo de Palavras",
+   "description": "Jogo multiplayer de adivinhação de palavras em HTML5 e Node.js — vence quem acertar mais.",
+   "category": "Jogos",
+   "tags": [
+    "Node.js",
+    "HTML5"
+   ],
+   "languages": [
+    {
+     "name": "JavaScript",
+     "percent": 79.7,
+     "color": "#f1e05a"
+    },
+    {
+     "name": "CSS",
+     "percent": 18.7,
+     "color": "#663399"
+    },
+    {
+     "name": "HTML",
+     "percent": 1.6,
+     "color": "#e34c26"
+    }
+   ],
+   "stars": 0,
+   "forks": 0,
+   "url": "https://github.com/finuom/words-game",
+   "homepage": null,
+   "created_at": "2021-09-30T17:10:52Z",
+   "pushed_at": "2021-10-02T02:47:26Z",
+   "private": false,
+   "featured": false
+  }
+ ],
+ "timeline": [
+  {
+   "year": 2021,
+   "repos": 2
+  },
+  {
+   "year": 2022,
+   "repos": 1
+  },
+  {
+   "year": 2023,
+   "repos": 1
+  },
+  {
+   "year": 2025,
+   "repos": 5
+  },
+  {
+   "year": 2026,
+   "repos": 2
+  }
+ ],
+ "generated_at": "2026-11-02T13:32:21.802675+00:00"
+}
