@@ -13,7 +13,7 @@
     "email": "mouniftormos@gmail.com",
     "linkedin": ""
   },
-  "include_forks": ["gates"],
+  "include_forks": ["gates", "tamagochi"],
   "hidden": ["zygos-bench"],
   "featured": [
     "plate-inspection-api",
@@ -54,6 +54,11 @@
       "description": "Artigo (UFMS) sobre custo-benefício de verificações em pipelines de treinamento: um gate que libera, alerta ou bloqueia o treino conforme testes de dados, código e configuração.",
       "category": "Pesquisa",
       "tags": ["MLOps", "Pesquisa", "LaTeX", "Colab"]
+    },
+    "tamagochi": {
+      "title": "Tamadragão",
+      "category": "Jogos",
+      "tags": ["HTML", "JavaScript", "KDE Plasma", "QML"]
     },
     "solitaire": {
       "title": "Paciência em C",
