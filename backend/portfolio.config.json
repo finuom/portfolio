@@ -16,6 +16,7 @@
   "include_forks": ["gates"],
   "hidden": ["zygos-bench"],
   "featured": [
+    "plate-inspection-api",
     "document-management",
     "british_birds_tf",
     "gates",
@@ -25,6 +26,12 @@
   ],
   "ignored_languages": ["BibTeX Style"],
   "projects": {
+    "plate-inspection-api": {
+      "title": "Inspeção de Chapas por Visão Computacional",
+      "description": "API que compara a foto de uma chapa metálica com o gabarito e aponta furos faltando, extras, deslocados ou fora de medida e defeitos no contorno. Alinhamento com ICP robusto + ECC.",
+      "category": "IA / Visão Computacional",
+      "tags": ["OpenCV", "FastAPI", "Visão Computacional", "Docker"]
+    },
     "document-management": {
       "title": "Gestão de Documentos",
       "description": "Sistema full stack para upload, armazenamento e gerenciamento de PDFs, com Vue 3 no front, FastAPI no back e Supabase (Storage + PostgreSQL).",
