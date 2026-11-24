@@ -28,7 +28,6 @@
   "projects": {
     "plate-inspection-api": {
       "title": "Inspeção de Chapas por Visão Computacional",
-      "description": "API que compara a foto de uma chapa metálica com o gabarito e aponta furos faltando, extras, deslocados ou fora de medida e defeitos no contorno. Alinhamento com ICP robusto + ECC.",
       "category": "IA / Visão Computacional",
       "tags": ["OpenCV", "FastAPI", "Visão Computacional", "Docker"]
     },
